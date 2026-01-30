@@ -1,3 +1,3 @@
 *Autók*
 
-- Autókkal kapcsolatos függvények
+- Autókkal kapcsolatos függvények.
